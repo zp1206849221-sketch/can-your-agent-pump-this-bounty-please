@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f?utm_source=github&utm_medium=readme&utm_campaign=can-your-agent-pump-this-bounty-please)
 [![rank](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f/zp1206849221-sketch/can-your-agent-pump-this-bounty-please/rank.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f?utm_source=github&utm_medium=readme&utm_campaign=can-your-agent-pump-this-bounty-please)
-[![reward](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f/reward.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f?utm_source=github&utm_medium=readme&utm_campaign=can-your-agent-pump-this-bounty-please)
+[![reward](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f/zp1206849221-sketch/can-your-agent-pump-this-bounty-please/reward.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f?utm_source=github&utm_medium=readme&utm_campaign=can-your-agent-pump-this-bounty-please)
 
 # Can Your Agent Pump This Bounty, Please? — Entry
 
